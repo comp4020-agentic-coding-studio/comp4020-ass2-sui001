@@ -1,46 +1,60 @@
 # Process overview
 
-<!-- TEMPLATE: this file is a shape to fill in, not a form. Replace everything
-     in it with your own overview, and delete this comment — `pnpm
-     check:evidence` will remind you if it's still here. -->
-
-Written by you, for a reader: how you got from the brief to the harness and
-agentic workflow behind this submission. Markers read this file and follow its
-citations; they don't trawl the repo for evidence you didn't point at.
-
-This file is the shape; the course site's
-[assessment page](https://comp.anu.edu.au/courses/comp4020-agentic-coding-studio/topics/assessment/#what-you-submit)
-is the requirement, and its
-[word counts](https://comp.anu.edu.au/courses/comp4020-agentic-coding-studio/topics/assessment/#word-counts)
-cover every deliverable.
+Coexistence 101 is a fictional Slop University course about sharing a home,
+a workplace, a studio or a public space with other people on purpose. It
+treats coexistence as a field discipline — Goffman's civil inattention,
+Hall's proxemics, Oldenburg's third place — rather than an etiquette
+checklist, and marks the semester on a diagnosis, a tested protocol and a
+critique-and-redesign, not on a self-report survey.
 
 ## What I built
 
-One paragraph: the thing, and the idea behind it.
+A full twelve-week course on the fixed Slop University template: a course
+record and site config, a Field Note and a lecture for every week, three
+weighted assessments summing to 100%, two staff profiles, a real
+astromotion slide deck for week 1, hand-authored two-ink SVG artwork for
+the hero and social-card images (no stock or AI photography), an authored
+homepage and policies page, a `CLAUDE.md` harness recording the rules this
+build holds itself to, and a new `spec/course-structure.test.ts` alongside
+the supplied `spec/data-integrity.test.ts`.
 
 ## How I got here
 
-The account of the process: how the work actually went, and how you knew the
-result was right. Tell it in whatever order makes it clear. A weekly prototype
-needs a paragraph or two; an assignment needs more.
+The course topic itself was the first real decision, worked through in
+conversation before any file changed: an early "geocaching" idea gave way
+to a shared-space topic once I pushed on what it would actually teach and
+how it would be marked without turning into a soft-skills survey. That
+conversation fixed the throughline (civil inattention, proxemics, third
+place), the twelve-week arc, the "Field Notes" session label, and the
+25/35/40 assessment split — diagnosis, tested protocol, then a
+critique-and-redesign capstone — before I wrote a line of course content.
 
-Cite the record as you go, as links whose text is the commit hash or range and
-whose target is this repo's commit or compare URL, so a reader clicks straight
-to the evidence:
+With the design locked, I planned the build (course record → site config →
+content collections → hand-authored pages → `CLAUDE.md` → spec test) and
+worked through it in that order:
 
-- one commit: [`a1b2c3d`](https://github.com/YOUR-ORG/YOUR-REPO/commit/a1b2c3d)
-- a range:
-  [`a1b2c3d...e4f5a6b`](https://github.com/YOUR-ORG/YOUR-REPO/compare/a1b2c3d...e4f5a6b)
+- the course record, code and site labels landed first —
+  [`175a965`](https://github.com/comp4020-agentic-coding-studio/comp4020-ass2-sui001/commit/175a965)
+- the full content build — twelve Field Notes and lectures, three
+  assessments, both people profiles, the week-1 deck, the hero and card
+  artwork, the homepage and policies copy, `CLAUDE.md`, and the new spec
+  test — landed together as
+  [`70834f7`](https://github.com/comp4020-agentic-coding-studio/comp4020-ass2-sui001/commit/70834f7)
 
-To pair a prompt with the commit it produced, quote the prompt (curated, not a
-full transcript) next to the citation:
+I ran `pnpm check` after that commit and hit one real bug: a lecture
+description used a colon followed by a space inside an unquoted multi-line
+YAML scalar (`coexistence skill: getting the task done`), which YAML reads
+as an implicit mapping key rather than plain text. Rewriting it as a comma
+fixed the parse, and `pnpm check` went green — build, accessibility, link
+checking, and all five spec tests (the supplied date-integrity test plus
+the four new structural assertions: one session and lecture per week with
+no gaps or duplicates, the allocated course code, at least one lecture
+carrying a real deck, and assessment weights summing to exactly 100).
 
-> the prompt, verbatim
-
-Screenshots are welcome where one carries the point better than a sentence does.
-Commit the file to this repo and link it with a **relative** path, which is what
-makes it render on GitHub: `![alt text](docs/before.png)`. Images don't count
-towards the word count and don't replace the citation.
+I then started `pnpm dev` and checked the homepage, a Field Note, the
+week-1 lecture and its deck, an assessment, and the policies page each
+resolved with the right title and content at the site's base path before
+stopping the server.
 
 ## Before you ship
 
