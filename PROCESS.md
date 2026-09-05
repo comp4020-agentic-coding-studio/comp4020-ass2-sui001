@@ -56,6 +56,19 @@ week-1 lecture and its deck, an assessment, and the policies page each
 resolved with the right title and content at the site's base path before
 stopping the server.
 
+That first pass satisfied every mechanical check but was thin as actual
+course content — short session bodies, no glossary or citations, and only
+one slide deck. Told directly that it read as weak, I went back over it in
+two further passes: a `/readings/` glossary page citing Goffman, Hall and
+Oldenburg properly plus three more slide decks (weeks 4, 7 and 12), in
+[`bdd9ba8`](https://github.com/comp4020-agentic-coding-studio/comp4020-ass2-sui001/commit/bdd9ba8),
+then a full re-edit of all twelve weeks' Field Notes and lectures to link
+each framework to its glossary entry and tell the workplace, phone-while-
+walking, studio-contention and household-enforcement anecdotes in full
+rather than by reference, in
+[`72da982`](https://github.com/comp4020-agentic-coding-studio/comp4020-ass2-sui001/commit/72da982).
+`pnpm check` stayed green throughout both.
+
 ## Before you ship
 
 `pnpm check:evidence` verifies that this comment is gone, that your citations
