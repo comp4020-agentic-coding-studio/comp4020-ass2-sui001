@@ -1,7 +1,7 @@
 ---
 title: Proxemics
 description:
-  Week 4 — Hall's distance zones, measured against your own diagnosis space
+  Week 4, Hall's distance zones, measured against your own diagnosis space
 week: 4
 date: 2027-03-15
 teachers:
@@ -15,7 +15,7 @@ related:
 ---
 
 Edward Hall's [proxemics](/readings/#proxemics) splits interpersonal
-distance into four zones — intimate, personal, social and public — and the
+distance into four zones (intimate, personal, social and public), and the
 zone people default to says more about the relationship than either person
 would say out loud. Two colleagues who like each other will still hold a
 tighter social-zone distance than two colleagues who don't, without either
@@ -27,7 +27,7 @@ structure, faster than anything either person would tell you if you asked.
 
 In the same space you've been using for your diagnosis (or a similar one),
 measure or estimate the distances people keep from each other across at
-least three different relationship types — strangers, colleagues, close
+least three different relationship types: strangers, colleagues, close
 friends or family. Note which zone each pairing sits in.
 
 ## In the session

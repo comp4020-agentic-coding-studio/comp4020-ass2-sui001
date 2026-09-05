@@ -1,7 +1,7 @@
 ---
 title: Hygiene as a shared-space issue
 description:
-  Week 6 — hygiene as maintenance, not morality, and why one standard
+  Week 6, hygiene as maintenance, not morality, and why one standard
   doesn't fit every body
 week: 6
 date: 2027-03-29

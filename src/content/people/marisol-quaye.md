@@ -13,7 +13,7 @@ contact: Email for course-level questions; use the weekly Tute for feedback on y
 Marisol built Coexistence 101 out of a simple frustration: every workplace
 sends people through a "communication skills" module that teaches nothing a
 person can actually do on a Tuesday morning when their desk-mate is on
-speakerphone. This course is the version she wishes she'd had — fewer
+speakerphone. This course is the version she wishes she'd had: fewer
 platitudes, more field method.
 
 She sets the twelve-week arc and marks the diagnosis and the final

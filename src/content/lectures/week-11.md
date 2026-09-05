@@ -1,7 +1,7 @@
 ---
 title: Norms shift with life stage
 description:
-  Week 11 — why the same household rule looks different at year one and
+  Week 11, why the same household rule looks different at year one and
   year three
 week: 11
 date: 2027-05-10

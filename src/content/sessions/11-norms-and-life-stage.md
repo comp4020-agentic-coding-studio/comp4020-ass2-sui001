@@ -1,7 +1,7 @@
 ---
 title: Norms shift with life stage
 description:
-  Week 11 — the same household's rules, renegotiated as the people in it
+  Week 11, the same household's rules, renegotiated as the people in it
   change
 week: 11
 date: 2027-05-10
@@ -15,12 +15,12 @@ spec:
 
 A share house of four strangers in first year runs on different rules
 than the same four people two years later, once they're friends rather
-than flatmates of convenience — and different rules again once one of them
+than flatmates of convenience, and different rules again once one of them
 moves in with a partner. Take a household where one person trains karate
 most evenings: as strangers, that's a scheduling problem to be managed
 around; a year later, once everyone actually knows and trusts each other,
 it's just "that's when Sam trains," folded into the house's rhythm without
-anyone renegotiating anything out loud. The rule didn't change — the
+anyone renegotiating anything out loud. The rule didn't change; the
 relationship underneath it did, and that's what actually moved the norm.
 
 ## Before the session
@@ -39,5 +39,5 @@ easily and nobody minds).
 ## Afterwards
 
 Bring this sense of "what actually needs renegotiating, and what doesn't"
-into the final assessment — a redesign that ignores relationship history
+into the final assessment: a redesign that ignores relationship history
 usually ignores the real problem.

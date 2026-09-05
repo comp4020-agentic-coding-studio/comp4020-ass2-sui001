@@ -1,7 +1,7 @@
 ---
 title: Third place
 description:
-  Week 2 — Oldenburg's home/work/third-place trichotomy, and why it matters
+  Week 2, Oldenburg's home/work/third-place trichotomy, and why it matters
   for coexistence
 week: 2
 date: 2027-03-01

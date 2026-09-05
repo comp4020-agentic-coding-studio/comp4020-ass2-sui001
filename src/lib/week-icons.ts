@@ -1,5 +1,5 @@
 // Iconoir icon names (bundled with the platform, already used by its nav and
-// footer) — one per week, picked for the week's topic. Decorative only; the
+// footer), one per week, picked for the week's topic. Decorative only; the
 // "Week N" text next to each icon carries the actual information.
 export const weekIcons: Record<number, string> = {
   1: "compass",

@@ -1,7 +1,7 @@
 ---
 title: Home and share houses
 description:
-  Week 5 — chores, noise and food as the real currency of a shared home
+  Week 5, chores, noise and food as the real currency of a shared home
 week: 5
 date: 2027-03-22
 teachers:

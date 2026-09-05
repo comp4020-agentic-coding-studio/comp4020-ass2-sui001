@@ -2,7 +2,7 @@
 
 This is the content and copy for a fictional SLOP University course. The
 platform (Astro, the four content collections, the generated API, the
-branding) is fixed — see `README.md` for what that means. Everything below is
+branding) is fixed; see `README.md` for what that means. Everything below is
 about the course itself.
 
 ## The throughline
@@ -15,7 +15,7 @@ nice," rewrite it until it says what to actually look for or do instead.
 Anchoring ideas to stay consistent with: Goffman's civil inattention and
 interaction order, Hall's proxemics, Oldenburg's third place. Week 1 sets up
 a "know yourself first" spine (presence, emotional discipline before you can
-read a room) that Week 12 calls back to directly — keep that thread visible
+read a room) that Week 12 calls back to directly; keep that thread visible
 if either week is edited.
 
 ## Hard rules
@@ -29,11 +29,11 @@ if either week is edited.
   the other two and update `spec/course-structure.test.ts`'s expectation
   alongside it.
 - **Every assessment's `marking` needs `bands`** that say what actually
-  separates an HD from a C — a concrete difference in the work, not a
+  separates an HD from a C: a concrete difference in the work, not a
   restatement of the criteria with different adjectives. Enforced by
   `spec/course-structure.test.ts`.
 - **No stock or AI-generated photography.** People profiles are text-only by
-  design (no `photo`/`photoAlt`) — that's a deliberate choice, not a gap to
+  design (no `photo`/`photoAlt`); that's a deliberate choice, not a gap to
   fill later. Any imagery added to the site should be original, hand-authored
   vector art in the existing two-ink brand palette, not a photo.
 - **Voice stays wry and practical, not corporate wellness-speak.** No "synergy,"
@@ -41,6 +41,8 @@ if either week is edited.
   deck, cut it.
 - **Weeks 1–12 must each have exactly one `sessions` entry and one
   `lectures` entry.** No gaps, no duplicate week numbers.
+- **No em dashes, anywhere.** Use a comma, period, colon, semicolon, or
+  parentheses in this file and in all course content instead.
 
 ## Before shipping
 

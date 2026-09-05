@@ -1,7 +1,7 @@
 ---
 title: Public third space
 description:
-  Week 9 — genuinely shared public space, and what a phone does to the
+  Week 9, genuinely shared public space, and what a phone does to the
   noticing it requires
 week: 9
 date: 2027-04-26

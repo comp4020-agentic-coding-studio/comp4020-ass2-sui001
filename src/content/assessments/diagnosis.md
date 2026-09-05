@@ -25,7 +25,7 @@ marking:
       description:
         Incidents are specific, dated, and correctly matched to a
         framework, but the choice of incidents is safe rather than
-        revealing — nothing here would surprise someone who already knows
+        revealing; nothing here would surprise someone who already knows
         the space.
     - band: C
       description:
@@ -52,7 +52,7 @@ related:
 > diagnose how it actually works.
 
 A kitchen, an open-plan office, a shared studio bench, a project team's
-group chat — anywhere with an unwritten rulebook that everyone follows and
+group chat, anywhere with an unwritten rulebook that everyone follows and
 nobody wrote down. Spend the first four weeks watching it the way you've
 been taught to watch: who defers to whom, where the personal-space bubbles
 sit, what "civil inattention" looks like in this particular room, and
@@ -60,7 +60,7 @@ whether the space functions as anyone's third place or just as a corridor
 between other things.
 
 The room the brief leaves is which space you pick and which incidents you
-foreground. What it does not leave room for is vagueness — "people are
+foreground. What it does not leave room for is vagueness: "people are
 generally respectful of each other" is not a diagnosis, it's a shrug.
 
 ## What you submit
@@ -70,13 +70,13 @@ A single written document (1200–1800 words) that:
 - describes the space and who shares it
 - walks through at least three specific incidents you actually observed,
   each dated and described in enough behavioural detail that a reader who
-  has never been there could picture it — the [log template](/log-template/)
+  has never been there could picture it. The [log template](/log-template/)
   is a reasonable place to have kept these as they happened
 - names, for each incident, which course framework explains what happened
   and why
 - ends with a one-paragraph diagnosis: what is this space's actual,
   unwritten rulebook, and where is it under strain
 
-No names, photographs, or identifying details of the people you observed —
+No names, photographs, or identifying details of the people you observed;
 see the [privacy policy](/policies/) for how to describe behaviour without
 identifying anyone.

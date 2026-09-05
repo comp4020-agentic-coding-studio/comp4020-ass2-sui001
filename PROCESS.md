@@ -2,8 +2,8 @@
 
 Coexistence 101 is a fictional Slop University course about sharing a home,
 a workplace, a studio or a public space with other people on purpose. It
-treats coexistence as a field discipline — Goffman's civil inattention,
-Hall's proxemics, Oldenburg's third place — rather than an etiquette
+treats coexistence as a field discipline (Goffman's civil inattention,
+Hall's proxemics, Oldenburg's third place) rather than an etiquette
 checklist, and marks the semester on a diagnosis, a tested protocol and a
 critique-and-redesign, not on a self-report survey.
 
@@ -26,26 +26,26 @@ to a shared-space topic once I pushed on what it would actually teach and
 how it would be marked without turning into a soft-skills survey. That
 conversation fixed the throughline (civil inattention, proxemics, third
 place), the twelve-week arc, the "Field Notes" session label, and the
-25/35/40 assessment split — diagnosis, tested protocol, then a
-critique-and-redesign capstone — before I wrote a line of course content.
+25/35/40 assessment split (diagnosis, tested protocol, then a
+critique-and-redesign capstone) before I wrote a line of course content.
 
 With the design locked, I planned the build (course record → site config →
 content collections → hand-authored pages → `CLAUDE.md` → spec test) and
 worked through it in that order:
 
-- the course record, code and site labels landed first —
+- the course record, code and site labels landed first:
   [`175a965`](https://github.com/comp4020-agentic-coding-studio/comp4020-ass2-sui001/commit/175a965)
-- the full content build — twelve Field Notes and lectures, three
+- the full content build (twelve Field Notes and lectures, three
   assessments, both people profiles, the week-1 deck, the hero and card
   artwork, the homepage and policies copy, `CLAUDE.md`, and the new spec
-  test — landed together as
+  test) landed together as
   [`70834f7`](https://github.com/comp4020-agentic-coding-studio/comp4020-ass2-sui001/commit/70834f7)
 
 I ran `pnpm check` after that commit and hit one real bug: a lecture
 description used a colon followed by a space inside an unquoted multi-line
 YAML scalar (`coexistence skill: getting the task done`), which YAML reads
 as an implicit mapping key rather than plain text. Rewriting it as a comma
-fixed the parse, and `pnpm check` went green — build, accessibility, link
+fixed the parse, and `pnpm check` went green: build, accessibility, link
 checking, and all five spec tests (the supplied date-integrity test plus
 the four new structural assertions: one session and lecture per week with
 no gaps or duplicates, the allocated course code, at least one lecture
@@ -57,7 +57,7 @@ resolved with the right title and content at the site's base path before
 stopping the server.
 
 That first pass satisfied every mechanical check but was thin as actual
-course content — short session bodies, no glossary or citations, and only
+course content: short session bodies, no glossary or citations, and only
 one slide deck. Told directly that it read as weak, I went back over it in
 two further passes: a `/readings/` glossary page citing Goffman, Hall and
 Oldenburg properly plus three more slide decks (weeks 4, 7 and 12), in

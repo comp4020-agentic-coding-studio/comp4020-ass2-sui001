@@ -1,7 +1,7 @@
 ---
 title: Levels of resolution
 description:
-  Final lecture — a de-escalation ladder for shared-space conflict, closing
+  Final lecture, a de-escalation ladder for shared-space conflict, closing
   the loop back to Week 1
 week: 12
 date: 2027-05-17

@@ -37,7 +37,7 @@ marking:
     - band: P
       description:
         A protocol exists and a log was kept, but the log reads like a
-        diary rather than a test — no clear evidence the protocol was
+        diary rather than a test, no clear evidence the protocol was
         actually put into practice, or the reflection just says "it
         worked."
 spec:
@@ -56,7 +56,7 @@ related:
 > a week, and report what actually happened.
 
 Use your diagnosis, or a fresh friction point, from a share house, a
-project team, a studio or a lab group — somewhere the group's coexistence
+project team, a studio or a lab group: somewhere the group's coexistence
 currently runs on assumption rather than agreement. Write a short protocol:
 who does what, when, and what happens when someone doesn't. Then get the
 group to actually try it for at least five days.
@@ -70,8 +70,8 @@ still gets the task done.
 ## What you submit
 
 - the protocol itself, written so someone outside the group could run it
-- a test log: what happened each day, including where it broke down —
-  the [log template](/log-template/) works here too; a protocol that
+- a test log: what happened each day, including where it broke down.
+  The [log template](/log-template/) works here too; a protocol that
   "worked perfectly" with no friction reported reads as untested, not
   successful
 - a short reflection on what you'd change before running it again

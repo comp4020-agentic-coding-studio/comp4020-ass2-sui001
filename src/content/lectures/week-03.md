@@ -1,7 +1,7 @@
 ---
 title: Civil inattention
 description:
-  Week 3 — Goffman's interaction order, civil inattention, and the tie-
+  Week 3, Goffman's interaction order, civil inattention, and the tie-
   signs that break it
 week: 3
 date: 2027-03-08

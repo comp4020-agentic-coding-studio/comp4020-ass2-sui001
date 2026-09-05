@@ -1,7 +1,7 @@
 ---
 title: Cultural variation
 description:
-  Week 10 — testing the semester's assumptions against a culture that
+  Week 10, testing the semester's assumptions against a culture that
   isn't the classroom's default
 week: 10
 date: 2027-05-03
@@ -15,13 +15,13 @@ spec:
 
 Everything up to this point has mostly been observed from inside one
 cultural default. Civil inattention, proxemics zones and third-place
-criteria all vary by culture — sometimes a little, sometimes enough to
+criteria all vary by culture, sometimes a little, sometimes enough to
 make last week's "obvious" reading of a room wrong somewhere else.
 
 ## Before the session
 
 Pick one norm or framework from an earlier week and find a specific
-example — from your own background, someone else's, or reliable reading —
+example (from your own background, someone else's, or reliable reading)
 of a culture where it works differently. Come with the example, not just
 the claim that "it's probably different somewhere."
 
@@ -35,5 +35,5 @@ than staying at the level of a general capability statement.
 
 ## Afterwards
 
-Keep this comparison in mind for the final assessment — a redesign that
+Keep this comparison in mind for the final assessment: a redesign that
 only works for one cultural context is a narrower one than it looks.

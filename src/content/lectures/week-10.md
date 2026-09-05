@@ -1,7 +1,7 @@
 ---
 title: Cultural variation
 description:
-  Week 10 — how much of the semester's material is culturally specific,
+  Week 10, how much of the semester's material is culturally specific,
   and where this course sits next to existing frameworks
 week: 10
 date: 2027-05-03

@@ -1,7 +1,7 @@
 ---
 title: Studio
 description:
-  Week 8 — noise, mess and equipment contention in shared creative and
+  Week 8, noise, mess and equipment contention in shared creative and
   lab spaces
 week: 8
 date: 2027-04-19

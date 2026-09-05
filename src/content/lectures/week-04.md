@@ -1,7 +1,7 @@
 ---
 title: Proxemics
 description:
-  Week 4 — Hall's four distance zones, and how to actually measure them
+  Week 4, Hall's four distance zones, and how to actually measure them
   in the field
 week: 4
 date: 2027-03-15
