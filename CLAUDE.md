@@ -22,7 +22,7 @@ if either week is edited.
 
 - **No `STARTER_CONTENT` markers left anywhere.** Grep for the string before
   considering a section done.
-- **Every Field Note (`src/content/sessions/*.md`) needs a real `spec:`**
+- **Every Tute (`src/content/sessions/*.md`) needs a real `spec:`**
   written as a checkable contract for that week's field task, not a summary
   of the lecture.
 - **Assessment weights must sum to exactly 100.** If a weight changes, check

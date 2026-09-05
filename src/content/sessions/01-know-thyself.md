@@ -1,7 +1,7 @@
 ---
 title: Know thyself first
 description:
-  The first Field Note — before you can read a room, you need a working
+  The first Tute — before you can read a room, you need a working
   read on your own baseline
 week: 1
 date: 2027-02-22

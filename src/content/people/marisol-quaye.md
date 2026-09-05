@@ -7,7 +7,7 @@ description:
 affiliation: Slop University School of Invented Disciplines
 role: convenor
 email: marisol.quaye@slop.university
-contact: Email for course-level questions; use the weekly Field Note for feedback on your own observations.
+contact: Email for course-level questions; use the weekly Tute for feedback on your own observations.
 ---
 
 Marisol built Coexistence 101 out of a simple frustration: every workplace
