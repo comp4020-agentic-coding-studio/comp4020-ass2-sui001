@@ -1,11 +1,44 @@
-# Your harness
+# Working on Coexistence 101
 
-This file is yours, and it arrives with no rules in it on purpose --- this note
-is all there is, and it goes when you write your own. The rules you hold the
-agent to are part of what gets marked, so they should be rules you decided on.
+This is the content and copy for a fictional SLOP University course. The
+platform (Astro, the four content collections, the generated API, the
+branding) is fixed — see `README.md` for what that means. Everything below is
+about the course itself.
 
-Nothing about the starter is recorded here. The platform under you is fixed and
-documented in `README.md`, and the
-[course website](https://comp.anu.edu.au/courses/comp4020-agentic-coding-studio/)
-publishes this deliverable's brief and spec. Read both before you plan or build;
-what the agent needs to carry from either is your call.
+## The throughline
+
+Coexistence 101 treats sharing space with other humans as a design and
+observation discipline, not an etiquette checklist. Every week should read
+like a field method, not a rule. If a sentence could be rephrased as "be
+nice," rewrite it until it says what to actually look for or do instead.
+
+Anchoring ideas to stay consistent with: Goffman's civil inattention and
+interaction order, Hall's proxemics, Oldenburg's third place. Week 1 sets up
+a "know yourself first" spine (presence, emotional discipline before you can
+read a room) that Week 12 calls back to directly — keep that thread visible
+if either week is edited.
+
+## Hard rules
+
+- **No `STARTER_CONTENT` markers left anywhere.** Grep for the string before
+  considering a section done.
+- **Every Field Note (`src/content/sessions/*.md`) needs a real `spec:`**
+  written as a checkable contract for that week's field task, not a summary
+  of the lecture.
+- **Assessment weights must sum to exactly 100.** If a weight changes, check
+  the other two and update `spec/course-structure.test.ts`'s expectation
+  alongside it.
+- **No stock or AI-generated photography.** People profiles are text-only by
+  design (no `photo`/`photoAlt`) — that's a deliberate choice, not a gap to
+  fill later. Any imagery added to the site should be original, hand-authored
+  vector art in the existing two-ink brand palette, not a photo.
+- **Voice stays wry and practical, not corporate wellness-speak.** No "synergy,"
+  no "bring your authentic self." If a line could appear in a HR onboarding
+  deck, cut it.
+- **Weeks 1–12 must each have exactly one `sessions` entry and one
+  `lectures` entry.** No gaps, no duplicate week numbers.
+
+## Before shipping
+
+Run `pnpm check` after any content change. It builds the site, checks
+accessibility, checks internal links, and runs everything in `spec/`.

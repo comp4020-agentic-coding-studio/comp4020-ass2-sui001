@@ -1,17 +1,18 @@
 ---
 title: Idris Fenn
 description:
-  A tutor working across the course's first reviews and the practical work that
-  follows them.
+  Tutor for Coexistence 101, running the weekly Field Notes and marking the
+  protocol-design assessment. Previously ran onboarding for a co-working
+  space, which is where most of the workplace weeks come from.
 affiliation: Slop University School of Invented Disciplines
 role: tutor
 email: idris.fenn@slop.university
-contact: Ask during sessions, or email when a question cannot wait until the next one.
-photo: ./idris-fenn.avif
-photoAlt: A stylised portrait of a person facing the viewer, flat gold and black shapes on warm cream, in a two-ink risograph print
+contact: Ask during a Field Note session, or email when a question can't wait until the next one.
 ---
 
-<!-- STARTER_CONTENT: replace this person entry, then remove this comment. -->
-
-Replace this entry. A second person makes the listing, role ordering and
-teacher-reference fields visible before you replace the cast with your own.
+Idris runs the room every week: the short demo of that week's observation
+method, then the group working-through of what people actually saw when
+they tried it on their own kitchen, desk pool or studio bench. He marks the
+protocol-design assessment and is the first port of call if a week's
+observation task runs into a situation you're not sure how to handle
+respectfully.

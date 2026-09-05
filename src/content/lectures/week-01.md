@@ -1,30 +1,27 @@
 ---
-title: Opening lecture
+title: Know thyself first
 description:
-  The first lecture — what the course is, why it is shaped this way, and what
-  happens in week 1
+  Opening lecture — why the course starts with you, not with the people
+  around you
 week: 1
 date: 2027-02-22
 teachers:
   - marisol-quaye
 slides: /decks/week-01/
 related:
-  - sessions/01-getting-started
+  - sessions/01-know-thyself
 ---
 
-<!-- STARTER_CONTENT: replace this lecture, then remove this comment. -->
-
-Replace this page. A lecture entry says what was covered and links to the pages
-that own the detail, so the lecture stays short and nothing is explained twice.
-
-The `related:` ref above is a graph edge: it renders on this page and on the
-session's, so declare a connection once, on whichever side is convenient.
-
-The page renders its `slides:` link automatically. Decks are markdown too,
-under `src/decks/`; the path is part of the lecture's API metadata.
+An old idea, dressed in a lot of different clothes over the centuries: you
+cannot reliably read other people's state, intentions or needs while
+you're not tracking your own. Presence, emotional discipline and empathy
+aren't separate skills stacked on top of each other — the first is what
+makes the other two possible.
 
 ## Outline
 
-- what the course is for
-- how the weeks are shaped
-- what to do before the first session
+- what the course is for, and why it isn't a soft-skills or etiquette class
+- presence: noticing your own attention before it's gone
+- emotional discipline: the gap between feeling something and acting on it
+- empathy and resilience as things you practise, not traits you have
+- what to bring to next week
