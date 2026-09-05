@@ -12,11 +12,14 @@ spec:
   - you can describe one thing that space does that home and work don't
 ---
 
-Ray Oldenburg's third place is neither home nor work: the café, the pub,
-the community garden, the regulars' table at the same diner every Sunday.
-It's low-stakes, levels social rank, and runs on people simply choosing to
-keep showing up. A lot of coexistence friction elsewhere in life traces
-back to not having one.
+Ray Oldenburg's [third place](/readings/#third-place) is neither home nor
+work: the café, the pub, the community garden, the regulars' table at the
+same diner every Sunday. It's low-stakes, levels social rank, and runs on
+people simply choosing to keep showing up. A lot of coexistence friction
+elsewhere in life traces back to not having one — someone with no third
+place brings all of their unmet need for low-stakes belonging into their
+home or their workplace instead, which is a lot of weight for either to
+carry.
 
 ## Before the session
 
@@ -28,9 +31,13 @@ each other.
 ## In the session
 
 We compare notes on what candidates people found, and what disqualifies a
-space that looks like a third place but isn't one (a gym you only ever go
-to alone, a group chat with no shared physical space, a workplace kitchen
-everyone treats as neutral territory rather than a place to linger).
+space that looks like a third place but isn't one: a gym you only ever go
+to alone and leave the moment you're done, a group chat with no shared
+physical space to actually occupy, a workplace kitchen everyone treats as
+neutral territory to pass through rather than somewhere to linger. The
+test that separates a real third place from an imitation is whether
+strangers-who-become-regulars is actually a thing that happens there — if
+nobody has ever become a regular, it's a room, not a third place.
 
 ## Afterwards
 

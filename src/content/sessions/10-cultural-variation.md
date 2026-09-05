@@ -28,7 +28,7 @@ the claim that "it's probably different somewhere."
 ## In the session
 
 We compare cases and locate this course against the Australian
-Curriculum's [personal and social capability](https://www.australiancurriculum.edu.au/curriculum-information/understand-this-general-capability/personal-and-social-capability)
+Curriculum's [personal and social capability](/readings/#personal-and-social-capability)
 framework, which names much of this territory already at a school level.
 This course's difference is that it stays hands-on and field-based rather
 than staying at the level of a general capability statement.

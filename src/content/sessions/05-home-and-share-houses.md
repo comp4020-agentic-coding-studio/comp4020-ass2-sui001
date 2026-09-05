@@ -16,6 +16,12 @@ Every shared household runs on rules nobody voted on: who does the dishes,
 whose food is communal, how loud is too loud after 11pm. They're rarely
 written down because writing them down would mean admitting they're
 negotiable — and most households would rather not have that conversation.
+Enforcement, when it happens, rarely looks like a direct request — it's a
+pointed sigh over a sink full of dishes, or someone loudly re-washing a pan
+that was already "clean." That's a [remedial
+interchange](/readings/#tie-signs) running at low volume: a breach, a
+signal that it was noticed, and an implicit invitation to fix it without
+either party having to name what happened.
 
 ## Before the session
 

@@ -13,11 +13,17 @@ spec:
   - you can state what makes the space feel like it belongs to everyone, or feel like it doesn't
 ---
 
-A public third space — a park, a library, a café with no purchase
-required to sit — is meant to belong to everyone equally. Whether it
-actually does depends on small, constant acts of noticing: making way,
-sharing a bench, not treating the space as a personal office because your
-laptop is open.
+A public [third space](/readings/#third-place) — a park, a library, a café
+with no purchase required to sit — is meant to belong to everyone equally.
+Whether it actually does depends on small, constant acts of noticing:
+making way, sharing a bench, not treating the space as a personal office
+because your laptop is open. The same phone-in-hand pattern from Week 3
+shows up here at a slower pace: someone walking a park path with their
+phone up doesn't just risk a collision, they stop being available for the
+dozen small unspoken negotiations — who steps onto the grass to let a
+pram through, who notices a dropped glove — that make the space feel like
+[civil inattention](/readings/#civil-inattention) is actually running in
+it, rather than everyone just happening to be in the same place.
 
 ## Before the session
 

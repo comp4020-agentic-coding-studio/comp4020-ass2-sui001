@@ -38,3 +38,14 @@ the rest of the semester's field tasks will lean on.
 
 Keep the log. You'll want it in Week 12, when the course comes back around
 to what your own baseline has to do with resolving a conflict calmly.
+
+## Why this comes before anything else
+
+Almost every framework later in the semester — Goffman's civil
+inattention, Hall's proxemics, Oldenburg's third place, all glossed on the
+[readings page](/readings/) as they come up — asks you to notice something
+about *other* people's state. That's a much harder read to get right while
+your own attention is scattered or your own tension is masking itself as
+irritation at someone else. A baseline log doesn't fix that on its own,
+but it makes the gap visible, which is the first thing you can actually
+work with.

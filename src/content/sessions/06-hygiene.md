@@ -37,7 +37,11 @@ about a fridge, a bathroom, a shared uniform or equipment.
 We talk through how hygiene norms get communicated (rarely directly),
 what makes that communication kind versus humiliating, and where "just be
 clean" breaks down as advice once you account for real differences in
-bodies and circumstances.
+bodies and circumstances — chronic illness, medication side effects,
+disability, and transition (including gender transition) all change what
+upkeep is needed and how often, and none of that is visible from outside
+the room, which is exactly why a rule enforced by silent judgement lands so
+unevenly.
 
 ## Afterwards
 

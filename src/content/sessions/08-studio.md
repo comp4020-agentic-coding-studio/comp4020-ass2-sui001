@@ -17,8 +17,12 @@ related:
 Studios, workshops and lab benches run into problems offices rarely see:
 noise that can't be muted with headphones, mess that's part of the process
 rather than a failure to tidy, and equipment that only one person can use
-at a time. The coexistence norms have to flex around the work itself, not
-just around people's moods.
+at a time. A single laser cutter or 3D printer with four projects due the
+same week turns into an unofficial queue nobody agreed to, enforced by
+whoever's willing to hover near the machine the longest — which quietly
+rewards the person with the most free time, not the person whose work is
+actually most urgent. The coexistence norms have to flex around the work
+itself, not just around people's moods.
 
 ## Before the session
 

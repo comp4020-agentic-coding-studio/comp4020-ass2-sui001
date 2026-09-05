@@ -14,11 +14,14 @@ related:
   - assessments/diagnosis
 ---
 
-Edward Hall's proxemics splits interpersonal distance into four zones —
-intimate, personal, social and public — and the zone people default to
-says more about the relationship than either person would say out loud.
-Watching people unconsciously negotiate these distances is one of the
-fastest ways to read a room's actual social structure.
+Edward Hall's [proxemics](/readings/#proxemics) splits interpersonal
+distance into four zones — intimate, personal, social and public — and the
+zone people default to says more about the relationship than either person
+would say out loud. Two colleagues who like each other will still hold a
+tighter social-zone distance than two colleagues who don't, without either
+one measuring anything; watching people unconsciously negotiate these
+distances is one of the fastest ways to read a room's actual social
+structure, faster than anything either person would tell you if you asked.
 
 ## Before the session
 

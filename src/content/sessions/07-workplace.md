@@ -26,11 +26,17 @@ version, the specific behaviours.
 
 ## In the session
 
-We test an old line against real cases: it doesn't matter who gets the
-credit, as long as the task gets done. When does that principle hold up,
-and when is it being used to let someone else take credit for your work
-without consequence? We also apply Week 3 and 4's tools to an open-plan
-office: who yields the aisle, whose desk becomes the default meeting spot.
+We test an old line against real cases — a friend of one of your tutors
+still swears by it, learned from a manager years into a career spent
+mostly on teams he didn't pick: it doesn't matter who gets the credit, as
+long as the task gets done. Applied honestly, it's a genuinely useful
+way to stop wasting energy on turf battles over a shared deliverable. The
+hard case is telling that apart from the version where someone quietly
+lets a colleague present their work as their own, three sprints running,
+and calls objecting to that "not a team player." Where's the line? We
+argue actual cases, not the platitude. We also apply Week 3 and 4's tools
+to an open-plan office: who yields the aisle, whose desk becomes the
+default meeting spot.
 
 ## Afterwards
 
