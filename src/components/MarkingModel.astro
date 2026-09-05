@@ -1,12 +1,19 @@
 ---
+interface GradeBand {
+  band: string;
+  description: string;
+}
+
 interface WeightedMarking {
   mode: "weighted";
   criteria: { name: string; weight: number }[];
+  bands?: GradeBand[];
 }
 
 interface HolisticMarking {
   mode: "holistic";
   description: string;
+  bands?: GradeBand[];
 }
 
 interface Props {
@@ -31,3 +38,21 @@ const { marking } = Astro.props;
     </table>
   )}
 </section>
+
+{marking.bands && (
+  <section aria-labelledby="grade-bands">
+    <h2 id="grade-bands">What separates the grades</h2>
+    <p>
+      Where the mark actually lands within a band is a judgement call; this
+      is what tells the bands apart.
+    </p>
+    <table>
+      <thead><tr><th scope="col">Band</th><th scope="col">What it looks like</th></tr></thead>
+      <tbody>
+        {marking.bands.map((band) => (
+          <tr><td>{band.band}</td><td>{band.description}</td></tr>
+        ))}
+      </tbody>
+    </table>
+  </section>
+)}

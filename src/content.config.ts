@@ -8,12 +8,23 @@ const courseNodeLoader = (dir: string) =>
   glob({ pattern: ["**/*.{md,mdx}", "!**/CLAUDE.md"], base: `src/content/${dir}` });
 const teacherRefs = z.array(reference("people")).min(1);
 
+const gradeBands = z
+  .array(
+    z.object({
+      band: z.string().trim().min(1),
+      description: z.string().trim().min(20),
+    }),
+  )
+  .min(2)
+  .optional();
+
 const weightedMarking = z
   .object({
     mode: z.literal("weighted"),
     criteria: z
       .array(z.object({ name: z.string().trim().min(1), weight: z.number().positive() }))
       .min(1),
+    bands: gradeBands,
   })
   .superRefine((marking, ctx) => {
     const total = marking.criteria.reduce((sum, criterion) => sum + criterion.weight, 0);
@@ -29,6 +40,7 @@ const weightedMarking = z
 const holisticMarking = z.object({
   mode: z.literal("holistic"),
   description: z.string().trim().min(40),
+  bands: gradeBands,
 });
 
 export const collections = {

@@ -13,6 +13,30 @@ marking:
       weight: 50
     - name: Correct, well-argued use of the course frameworks
       weight: 50
+  bands:
+    - band: HD
+      description:
+        Incidents are dated and behaviourally specific, and chosen because
+        they reveal where the space's unwritten rulebook is under strain,
+        not just because they happened. The framework applied to each one
+        fits precisely enough that swapping in a different framework would
+        visibly not work as well.
+    - band: D
+      description:
+        Incidents are specific, dated, and correctly matched to a
+        framework, but the choice of incidents is safe rather than
+        revealing — nothing here would surprise someone who already knows
+        the space.
+    - band: C
+      description:
+        The three incidents are present, but at least one drifts toward
+        the generic ("people were considerate"), or a framework is named
+        for an incident without being argued for it.
+    - band: P
+      description:
+        The required parts are all there in name, but incidents read as
+        reconstructed after the fact rather than logged at the time, or a
+        framework is misapplied without the diagnosis noticing.
 spec:
   - submitted by the deadline, as a written document of 1200-1800 words
   - names at least three specific, dated incidents observed in the chosen space
@@ -46,7 +70,8 @@ A single written document (1200–1800 words) that:
 - describes the space and who shares it
 - walks through at least three specific incidents you actually observed,
   each dated and described in enough behavioural detail that a reader who
-  has never been there could picture it
+  has never been there could picture it — the [log template](/log-template/)
+  is a reasonable place to have kept these as they happened
 - names, for each incident, which course framework explains what happened
   and why
 - ends with a one-paragraph diagnosis: what is this space's actual,

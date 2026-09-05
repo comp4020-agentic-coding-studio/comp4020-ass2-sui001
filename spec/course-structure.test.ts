@@ -44,4 +44,13 @@ describe("course structure", () => {
     );
     expect(total).toBe(100);
   });
+
+  it("gives every assessment grade bands that distinguish an HD from a C", () => {
+    for (const node of byType("assessments")) {
+      const marking = node.meta?.marking as { bands?: { band: string }[] } | undefined;
+      const bandNames = marking?.bands?.map((band) => band.band) ?? [];
+      expect(bandNames, `${node.id} bands`).toContain("HD");
+      expect(bandNames, `${node.id} bands`).toContain("C");
+    }
+  });
 });

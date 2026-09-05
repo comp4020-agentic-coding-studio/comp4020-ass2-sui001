@@ -24,8 +24,10 @@ everything after this week is about you watching everyone else.
 
 Carry a small notebook or your phone's notes app for one full day. Every
 time you notice your own attention snap toward something, or your mood
-shift, jot down the time, the trigger, and what you did about it. You are
-not analysing anything yet — just building a log.
+shift, jot down the time, the trigger, and what you did about it — the
+[log template](/log-template/) is the format the rest of the semester's
+field tasks will assume. You are not analysing anything yet — just
+building a log.
 
 ## In the session
 

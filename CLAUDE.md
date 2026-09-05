@@ -28,6 +28,10 @@ if either week is edited.
 - **Assessment weights must sum to exactly 100.** If a weight changes, check
   the other two and update `spec/course-structure.test.ts`'s expectation
   alongside it.
+- **Every assessment's `marking` needs `bands`** that say what actually
+  separates an HD from a C — a concrete difference in the work, not a
+  restatement of the criteria with different adjectives. Enforced by
+  `spec/course-structure.test.ts`.
 - **No stock or AI-generated photography.** People profiles are text-only by
   design (no `photo`/`photoAlt`) — that's a deliberate choice, not a gap to
   fill later. Any imagery added to the site should be original, hand-authored

@@ -13,6 +13,30 @@ marking:
     space's failure using the semester's frameworks precisely, proposes a
     redesign that would plausibly fix it without assuming an unlimited
     budget, and stands on its own without you there to talk it through.
+  bands:
+    - band: HD
+      description:
+        The diagnosis reads as inevitable once stated, using two or more
+        frameworks precisely and showing where they compound each other.
+        The redesign is concrete enough that someone could hand it to a
+        builder or a landlord, and the document is honest about a real
+        limitation it doesn't solve.
+    - band: D
+      description:
+        The diagnosis is correct and well-argued, and the redesign is
+        concrete, but the document leans on one framework more than the
+        brief's "at least two" — the second is present but thin.
+    - band: C
+      description:
+        The document names a real failure and gestures at a framework,
+        but the redesign drifts toward "people should communicate better"
+        in at least one part, or its own limits go unacknowledged.
+    - band: P
+      description:
+        All the required parts are present, but the failure described
+        could be fixed by people simply being nicer just as easily as by
+        the proposed redesign — the redesign isn't doing any explanatory
+        work of its own.
 spec:
   - submitted by the deadline, as a document that stands alone without you present to explain it
   - critiques a specific, real space using at least two frameworks from the semester
