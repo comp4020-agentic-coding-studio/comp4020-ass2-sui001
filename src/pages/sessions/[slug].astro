@@ -4,8 +4,10 @@ import { getPublishedCollection } from "astro-course-university/content";
 import RelatedContent from "astro-course-university/components/RelatedContent.astro";
 import SpecList from "astro-course-university/components/SpecList.astro";
 import ContentLayout from "astro-theme-university/layouts/ContentLayout.astro";
+import Icon from "astro-theme-university/components/Icon.astro";
 import TeachingTeam from "../../components/TeachingTeam.astro";
 import { formatCourseDate } from "../../lib/dates";
+import { weekIcons } from "../../lib/week-icons";
 import { graphCollections, sessionLabels, siteConfig } from "../../site-config";
 
 export async function getStaticPaths() {
@@ -22,7 +24,10 @@ const { Content } = await render(session);
   description={session.data.description}
   {...siteConfig}
 >
-  <p><strong>{formatCourseDate(session.data.date)}</strong></p>
+  <p>
+    <Icon name={weekIcons[session.data.week]} size="1.3em" />{" "}
+    <strong>{formatCourseDate(session.data.date)}</strong>
+  </p>
   <Content />
   <SpecList spec={session.data.spec}>
     What you bring to the session. Written so a reader can tell whether it has

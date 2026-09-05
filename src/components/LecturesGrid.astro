@@ -2,7 +2,9 @@
 import { getPublishedCollection } from "astro-course-university/content";
 import Card from "astro-theme-university/components/Card.astro";
 import CardGrid from "astro-theme-university/components/CardGrid.astro";
+import Icon from "astro-theme-university/components/Icon.astro";
 import { formatCourseDate } from "../lib/dates";
+import { weekIcons } from "../lib/week-icons";
 
 const lectures = await getPublishedCollection("lectures");
 const visible = lectures.sort((a, b) => a.data.date.getTime() - b.data.date.getTime());
@@ -13,7 +15,12 @@ const visible = lectures.sort((a, b) => a.data.date.getTime() - b.data.date.getT
     visible.map((lecture) => (
       <Card headingLevel="h2" title={lecture.data.title} href={`/lectures/${lecture.id}/`}>
         {lecture.data.description && <p>{lecture.data.description}</p>}
-        <p><small>Week {lecture.data.week} · {formatCourseDate(lecture.data.date)}</small></p>
+        <p>
+          <small>
+            <Icon name={weekIcons[lecture.data.week]} size="1.1em" /> Week {lecture.data.week} ·{" "}
+            {formatCourseDate(lecture.data.date)}
+          </small>
+        </p>
       </Card>
     ))
   }
